@@ -1,2 +1,3 @@
 # RepoMan
-The official project repository
+
+The official project repository is awesome!
